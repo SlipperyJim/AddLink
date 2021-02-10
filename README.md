@@ -1,5 +1,5 @@
 # AddLink
-AddLink Extension for Playnite
+AddLink Extension for Playnite - this helps you to add links to the Metacritic and IGDB entries for the games you have in Playnite.
 
 Automatic Install:
 1. Download the .pext file from the latest release on Github and drag it over the Playnite program window
