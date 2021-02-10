@@ -1,14 +1,12 @@
-Name: Add Link
-Author: dragonmc
-Version: 1.0
+ID: Add_Link
+Name: Add Link to Metacritic & IGDB
+Author: 1.1 Donkeyfumbler (original version by DragonMC)
+Version: 1.1
 Module: AddLink.ps1
 Type: Script
-Functions: 
-    - Description: Add Link MetaCritic
-      FunctionName: AddLinkMetaCritic
-    - Description: Add Link IGDB
-      FunctionName: AddLinkIGDB
-    - Description: Add Link GamesDatabase
-      FunctionName: AddLinkGamesDatabase
-    - Description: Fix IGDB
-      FunctionName: FixLinkIGDB
+Icon: icon.png
+Links:
+    - Name: Playnite Forums thread
+      Url: https://playnite.link/forum/thread-66.html
+    - Name: Github
+      Url: https://github.com/SlipperyJim/AddLink
