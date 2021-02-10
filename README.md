@@ -1,6 +1,9 @@
 # AddLink
 AddLink Extension for Playnite
 
+Automatic Install:
+1. Download the .pext file from the latest release on Github and drag it over the Playnite program window
+
 Manual Install:
 1. Create a folder called AddLink in %appdata%\Playnite\Extensions.
 2. Copy the Addlink.ps1, extension.yaml and icon.png to the folder.
